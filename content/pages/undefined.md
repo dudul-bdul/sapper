@@ -1,13 +1,13 @@
 ---
-title: Sapper Markdown Blog and Pages Netlify CMS Starter
+title: Ryzahra Wedding
 ---
 
-<!-- undefined is an awful file name but it keeps things kosher with sapper's generated files -->
+<!-- -->
 
 # Great success!
 
-| ![Success Kid](/images/successkid.jpg) | 
+| ![Ryzahra Logo](https://ryzahra-makeup.web.app/assets/assets/images/logo.png) | 
 |:--:| 
-| *Have fun with Sapper!* |
+| *Have fun with Ryzahra Wedding & Event Organizer!* |
 
-**Try editing this file (content/pages/undefined.md) to test live reloading.**
+**Try it.**
