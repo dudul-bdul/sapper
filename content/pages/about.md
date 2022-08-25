@@ -1,9 +1,6 @@
 ---
 title: About
 ---
+## About Ryzahra
 
-# About this site
-
-This is the 'about' page. There's not much here.
-
-**Try editing this file (content/pages/about.md) to test live reloading.**
+Ryzahra Wedding, Event Organizer, Makeup Artist, Decoration, Entertaintment, Documentation, Catering, etc
