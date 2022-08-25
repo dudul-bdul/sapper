@@ -31,7 +31,7 @@
 
 	import { onMount } from 'svelte';
 
-	let characters = ['🥳', '🎉', '✨'];
+	let characters = ['💋','👄','💄','🥳', '🎉', '✨'];
 
 	let confetti = new Array(100).fill()
 		.map((_, i) => {
