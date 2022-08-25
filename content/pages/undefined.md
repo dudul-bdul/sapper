@@ -2,8 +2,6 @@
 title: Ryzahra Wedding
 ---
 
-<!-- -->
-
 # Great success!
 
 | ![Ryzahra Logo](https://ryzahra-makeup.web.app/assets/assets/images/logo.png) | 

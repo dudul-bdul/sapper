@@ -23,7 +23,7 @@
 
 		return { article, siteTitle };
 	}
-	import Box from './Box.svelte';
+	
 </script>
 
 <script>
